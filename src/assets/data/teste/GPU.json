@@ -1,0 +1,74 @@
+[
+    {
+        "nome": "AMD RX5700XT",
+        "fonte": 600,
+        "qtdMemoria": 8,
+        "tipoMemoria": "GDDR6"
+    },
+    {
+        "nome": "AMD RX5700",
+        "fonte": 600,
+        "qtdMemoria": 8,
+        "tipoMemoria": "GDDR6"
+    },
+    {
+        "nome": "AMD RX5600XT",
+        "fonte": 550,
+        "qtdMemoria": 6,
+        "tipoMemoria": "GDDR6"
+    },
+    {
+        "nome": "AMD RX5600",
+        "fonte": 550,
+        "qtdMemoria": 6,
+        "tipoMemoria": "GDDR6"
+    },
+    {
+        "nome": "AMD RX580",
+        "fonte": 500,
+        "qtdMemoria": 8,
+        "tipoMemoria": "GDDR5"
+    },
+    {
+        "nome": "AMD RX570",
+        "fonte": 450,
+        "qtdMemoria": 8,
+        "tipoMemoria": "GDDR5"
+    },
+    {
+        "nome": "GeForce RTX 2080Ti",
+        "fonte": 650,
+        "qtdMemoria": 11,
+        "tipoMemoria": "GDDR6"
+    },
+    {
+        "nome": "GeForce RTX 2080",
+        "fonte": 650,
+        "qtdMemoria": 8,
+        "tipoMemoria": "GDDR6"
+    },
+    {
+        "nome": "GeForce RTX 2070 Super",
+        "fonte": 650,
+        "qtdMemoria": 8,
+        "tipoMemoria": "GDDR6"
+    },
+    {
+        "nome": "GeForce RTX 2070",
+        "fonte": 550,
+        "qtdMemoria": 8,
+        "tipoMemoria": "GDDR6"
+    },
+    {
+        "nome": "GeForce RTX 2060 Super",
+        "fonte": 550,
+        "qtdMemoria": 8,
+        "tipoMemoria": "GDDR6"
+    },
+    {
+        "nome": "GeForce RTX 2060",
+        "fonte": 500,
+        "qtdMemoria": 6,
+        "tipoMemoria": "GDDR6"
+    }
+]

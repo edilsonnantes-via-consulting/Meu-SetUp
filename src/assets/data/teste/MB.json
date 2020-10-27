@@ -1,0 +1,45 @@
+[
+    {
+        "nome": "ASRock A320M",
+        "soquete": "AM4",
+        "velocidadeMemoria": 2667,
+        "pciExpress": "4.0 x16"
+    },
+    {
+        "nome": "MSI B450M PRO",
+        "soquete": "AM4",
+        "velocidadeMemoria": 2933,
+        "pciExpress": "4.0 x16"
+    },
+    {
+        "nome": "MSI X470 GAMING PLUS",
+        "soquete": "AM4",
+        "velocidadeMemoria": 3466,
+        "pciExpress": "4.0 x16"
+    },
+    {
+        "nome": "Gigabyte H310M",
+        "soquete": "LGA1151",
+        "velocidadeMemoria": 2666,
+        "pciExpress": "3.0 x16"
+    },
+    {
+        "nome": "Gigabyte Z370",
+        "soquete": "LGA1151",
+        "velocidadeMemoria": 2133,
+        "pciExpress": "3.0 x16"
+    },
+    {
+        "nome": "Gigabyte Z390 GAMING X",
+        "soquete": "LGA1151",
+        "velocidadeMemoria": 2666,
+        "pciExpress": "4.0 x16"
+    },
+    {
+        "nome": "Asus Prime Z490-P",
+        "soquete": "LGA1200",
+        "velocidadeMemoria": 2666,
+        "pciExpress": "4.0 x16" 
+    }
+
+]

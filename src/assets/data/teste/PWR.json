@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Cooler Master MWE White V2",
+        "potencia": 650
+    },
+    {
+        "nome": "WiseCase 500",
+        "potencia": 500
+    },
+    {
+        "nome": "Cooler Master MWE White",
+        "potencia": 450
+    },
+    {
+        "nome": "EVGA 80 Plus White",
+        "potencia": 600
+    },
+    {
+        "nome": "Corsair CV550",
+        "potencia": 550
+    }
+]

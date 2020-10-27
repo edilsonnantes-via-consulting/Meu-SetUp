@@ -1,0 +1,43 @@
+[
+    {
+        "nome": "HyperX Fury RGB 16Gb 3200MHz",
+        "velocidadeMemoria": 3200,
+        "tamanho": 16
+    },
+    {
+        "nome": "HyperX Fury RGB 8Gb 3200MHz",
+        "velocidadeMemoria": 3200,
+        "tamanho": 8
+    },
+    {
+        "nome": "HyperX Fury 4Gb 3200MHz",
+        "velocidadeMemoria": 3200,
+        "tamanho": 4
+    },
+    {
+        "nome": "HyperX Fury 16Gb 2933MHz",
+        "velocidadeMemoria": 2933,
+        "tamanho": 16
+    },
+    {
+        "nome": "HyperX Predator RGB 8Gb 2933MHz",
+        "velocidadeMemoria": 2933,
+        "tamanho": 8
+    },
+    {
+        "nome": "Corsair Vengeance LPX 16Gb 2666MHz",
+        "velocidadeMemoria": 2666,
+        "tamanho": 16
+    },
+    {
+        "nome": "HyperX Fury 4Gb 2666MHz",
+        "velocidadeMemoria": 2666,
+        "tamanho": 4
+    },
+    {
+        "nome": "Corsair Vengeane 8Gb 2666MHz",
+        "velocidadeMemoria": 2666,
+        "tamanho": 8
+    }
+
+]
